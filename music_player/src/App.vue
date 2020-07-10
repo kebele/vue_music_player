@@ -43,7 +43,7 @@ export default {
   name: "App",
   data() {
     return {
-      current: {},
+      // current: {},
       index: 0,
       isPlaying: false,
       songs: [
