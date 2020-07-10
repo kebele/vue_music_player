@@ -152,7 +152,7 @@ header {
   font-weight: 400;
   font-style: italic;
 }
-.controls {
+.control {
   display: flex;
   justify-content: center;
   align-items: center;
